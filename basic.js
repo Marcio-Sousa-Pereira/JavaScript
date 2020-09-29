@@ -1,5 +1,6 @@
 //declarando uma variável 
 let a = 'amarelo'
-let b = 'azul'
-console.log(a)
+var b = 10
+console.log(a, b)
+
 
