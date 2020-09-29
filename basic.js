@@ -2,7 +2,7 @@
 let a = 'amarelo'
 var b = 10
 
-//declaração de constantes
+//declaração de constante
 const a = 1;
 
 
